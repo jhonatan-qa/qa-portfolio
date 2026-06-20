@@ -1,25 +1,44 @@
-# Meu Portfólio de QA - Jhonatan
+Portfólio QA - Jhonatan Souza
 
-Olá! Este é meu espaço para consolidar minha transição de carreira para Quality Assurance (QA).
+Engenheiro de Controle e Automação em transição para Quality Assurance (QA), com mais de 10 anos de experiência em qualidade industrial nos setores mecânico e aeronáutico.
 
-## 📌 Sobre Mim
-Sou Engenheiro de Controle e Automação por formação e atuo há mais de 10 anos como técnico da qualidade em indústrias mecânica e aeronáutica, migrando para a área de QA com foco em automação de testes.
+Este repositório reúne projetos práticos desenvolvidos para demonstrar competências em testes de software, automação, análise de dados e processos de qualidade.
 
-## 🗺️ Meu Plano de Estudos (PDI)
-Aqui estão os projetos que vou desenvolver ao longo de 6 meses:
+Competências em desenvolvimento
 
-| Fase | Projeto | Tecnologias | Status |
-|------|---------|-------------|--------|
-| 1 | quality-sql-tests | SQL, Git | ⬜ Não iniciado |
-| 2 | quality-api-tests | Python, Requests, Postman | ⬜ Não iniciado |
-| 3 | quality-bdd-scenarios | Pytest, Behave (BDD) | ⬜ Não iniciado |
-| 4 | qaindustrial-quality-system | Playwright, GitHub Actions | ⬜ Não iniciado |
+- Testes de API
+- Automação com Python
+- SQL para QA
+- Git e GitHub
+- Testes automatizados com Pytest
+- Integração contínua com GitHub Actions
 
-## 🚀 Projetos Concluídos
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| (Em breve) | ... | ... |
+Estrutura do Portfólio
 
----
+SQL
 
-*Este README será atualizado conforme eu avançar nos estudos.*
+Exercícios e consultas voltadas para análise e validação de dados.
+
+API Testing
+
+Testes manuais e automatizados utilizando Postman, Requests e Python.
+
+Python Automation
+
+Scripts de automação e testes utilizando Pytest.
+
+QA Documentation
+
+Planos de teste, casos de teste, relatórios de bugs e documentação de qualidade.
+
+Projetos
+
+Projeto| Objetivo| Status
+SQL para QA| Consultas e validação de dados| Em desenvolvimento
+API Testing| Testes de APIs REST| Em desenvolvimento
+Python Automation| Automação de testes| Em desenvolvimento
+QA Documentation| Artefatos de QA| Em desenvolvimento
+
+Objetivo
+
+Construir um portfólio sólido de QA baseado em projetos práticos e evidências técnicas, aplicando princípios de qualidade já desenvolvidos ao longo da experiência profissional em ambientes industriais.
